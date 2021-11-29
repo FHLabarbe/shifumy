@@ -143,7 +143,7 @@ async def jouerPartie1vs1(player1,player2,k,i):
     player1[0].close()
     player2[0].close()
     tables.pop(i)
-
+    
 
 
 async def configPartie(reader,writer):
